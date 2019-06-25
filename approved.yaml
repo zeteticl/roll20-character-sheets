@@ -3,19 +3,19 @@
 #By Roll20 sheets
 #When adding a by Roll20 sheet include "by Roll20" in the long name to populate the sheet menu
   official13thage:
-  - "13th Age by Roll20"
-  - "13th Age by Roll20"
-  - "13th Age"
+    - "13th Age by Roll20"
+    - "13th Age by Roll20"
+    - "13th Age"
 
   burnbryte:
-  - "Burn Bryte by Roll20"
-  - "Burn Bryte by Roll20"
-  - "hidden"
+    - "Burn Bryte by Roll20"
+    - "Burn Bryte by Roll20"
+    - "hidden"
 
   officialnwod:
-  - "Chronicles of Darkness by Roll20"
-  - "Chronicles of Darkness by Roll20 ( New World of Darkness )"
-  - "Storytelling System"
+    - "Chronicles of Darkness by Roll20"
+    - "Chronicles of Darkness by Roll20 ( New World of Darkness )"
+    - "Storytelling System"
 
   cypherstemsr20:
     - "Cypher Systems by Roll20"
@@ -23,39 +23,39 @@
     - "Cypher System"
 
   ogl5e:
-  - "5th Edition OGL by Roll20"
-  - "D&D 5E by Roll20"
-  - "Dungeons and Dragons"
+    - "5th Edition OGL by Roll20"
+    - "D&D 5E by Roll20"
+    - "Dungeons and Dragons"
 
   dungeonworldofficial:
-  - "Dungeon World by Roll20"
-  - "Dungeon World by Roll20"
-  - "Apocalypse World Engine"
-
+    - "Dungeon World by Roll20"
+    - "Dungeon World by Roll20"
+    - "Apocalypse World Engine"
+  
   gumshoeofficial:
-  - "Gumshoe by Roll20"
-  - "Gumshoe by Roll20"
-  - "GUMSHOE"
+    - "Gumshoe by Roll20"
+    - "Gumshoe by Roll20"
+    - "GUMSHOE"
 
   pathfinderofficial:
-  - "Pathfinder by Roll20"
-  - "Pathfinder by Roll20"
-  - "Pathfinder"
+    - "Pathfinder by Roll20"
+    - "Pathfinder by Roll20"
+    - "Pathfinder"
 
   pathfinder2e:
-  - "Pathfinder 2 Playtest by Roll20"
-  - "Pathfinder 2 Playtest by Roll20"
-  - "Pathfinder"
+    - "Pathfinder 2 Playtest by Roll20"
+    - "Pathfinder 2 Playtest by Roll20"
+    - "Pathfinder"
 
   starfinder:
-  - "Starfinder by Roll20"
-  - "Starfinder by Roll20"
-  - "Starfinder"
+    - "Starfinder by Roll20"
+    - "Starfinder by Roll20"
+    - "Starfinder"
 
   startrekofficial:
-  - "Star Trek Adventures by Roll20"
-  - "Star Trek Adventures by Roll20"
-  - 2d20
+    - "Star Trek Adventures by Roll20"
+    - "Star Trek Adventures by Roll20"
+    - 2d20
 
   thestrange:
   - "The Strange"
@@ -63,11 +63,16 @@
   - "hidden"
 
 #Publisher Sheets
-#When adding an official sheet include 'official' in the short name for the select menu
+#When adding an official sheet include 'official' in the short name for the select menu  
   earthdawnofficial:
     - "Earthdawn (FASA Official)"
     - "Earthdawn by FASA"
     - "Earthdawn"
+
+  hcsvntdraconesofficial:
+    - "Hc Svnt Dracones Second Edition"
+    - "Hc Svnt Dracones 2E by Weapons Grade Funk"
+    - "Hc Svnt Dracones"
 
   reachoftitanofficial:
     - "ReachofTitan"
@@ -90,7 +95,6 @@
     - "Yatzoid by Mats Svendsen"
 
 #===== Community Sheets ======
-
 #=== 2d20 ===
   conan2d20:
     - "conan-2d20"
@@ -130,8 +134,6 @@
     - "Naruto"
     - "d20 Modern"
 
-  #=== end d20 Modern ===
-
 #=== Dungeon Crawl Classics ===
   dcc:
     - "DCC"
@@ -143,8 +145,6 @@
     - "Dungeon Crawl Classics (Tabbed)"
     - "Dungeon Crawl Classics"
 
-  #=== end Dungeon Crawl Classics ===
-
 #=== AGE System ===
   agesystem:
     - "AGE System"
@@ -155,8 +155,6 @@
     - "Dragon-Age-RPG-PT-BR"
     - "Dragon Age RPG (Portuguese)"
     - "AGE System"
-    
-  #=== end AGE System ===
 
 #=== Apocalypse World Engine" ===
   apocalypseworld:
@@ -309,8 +307,6 @@
     - "Worlds in Peril"
     - "Apocalypse World Engine"
 
-  #=== end Apocalypse World Engine" ===
-
 #=== Basic Roleplaying System ===
   arkhamhorror:
     - "Arkham Horror"
@@ -382,8 +378,6 @@
     - "Stormbringer"
     - "Basic Roleplaying System"
 
-  #=== end Basic Roleplaying System ===
-
 #=== Burning Wheel ===
   burningwheel:
     - "Burning Wheel"
@@ -399,8 +393,6 @@
     - "Torchbearer"
     - "Torchbearer"
     - "Burning Wheel"
-
-  #=== end Burning Wheel ===
 
 #=== Chroniques Oubliées ===
   chroniquesgalactiques:
@@ -418,8 +410,6 @@
     - "Chroniques Oubliées Fantasy (French)"
     - "Chroniques Oubliées"
 
-  #=== end Chroniques Oubliées ===
-
 #=== Cyberpunk 2020 ===
   cyberpunk2020:
   - "Cyberpunk 2020"
@@ -430,8 +420,6 @@
   - "Cyberpunk 2k20"
   - "Cyberpunk 2k20"
   - "Cyberpunk 2020"
-
-  #=== end Cyberpunk 2020 ===
 
 #=== Cypher System ===
   cyphersystem:
@@ -454,15 +442,17 @@
     - "Numenera"
     - "Cypher System"
 
+  numeneratwo:
+    - "Numenera_NathasNumenera_English"
+    - "Numenera (Tabbed)"
+    - "hidden"
+
   thestrangemutlirecursion:
     - "TheStrangeMultiRecursion"
     - "The Strange (Multiple Recursion)"
-    - "Cypher System"   
-
-  #=== end Cypher System ===
+    - "Cypher System"
 
 #=== D6 ===
-
   d6fantasy:
     - "D6_Fantasy"
     - "D6 Fantasy"
@@ -482,8 +472,6 @@
     - Star Wars 30th Anniversary Edition
     - Star Wars 30th Anniversary Edition
     - D6
-
-  #=== end D6 ===
 
 #=== D&D ===
   adnd1e:
@@ -601,8 +589,6 @@
     - "D&D 5E (Scrolls)"
     - "Dungeons and Dragons"
 
-  #=== end D&D ===
-
 #=== Das Schwarze Auge ===
   dasschwarzeauge:
     - "Das_Schwarze_Auge_4-1"
@@ -614,15 +600,11 @@
     - "Das Schwarze Auge 5 (German)"
     - "Das Schwarze Auge"
 
-  #=== end Das Schwarze Auge ===
-
 #=== Earthdawn ===
   earthdawn4e:
   - "Earthdawn-4E"
   - "Earthdawn: 4th Edition"
   - "Earthdawn"
-
-  #=== end Earthdawn ===
 
 #=== Fade ===
   thefade:
@@ -634,8 +616,6 @@
     - "The Fade Tabletop 2e Sheet"
     - "The Fade 2e"
     - "Fade"
-
-  #=== end Fade ===
 
 #=== Fate ===
   achtungcthulhu:
@@ -665,6 +645,11 @@
 
   fatecore:
     - "Fate_Core"
+    - "Fate: Core Edition"
+    - "hidden"
+
+  fatecorev2:
+    - "Fate Core v2"
     - "Fate: Core Edition"
     - "Fate"
 
@@ -748,8 +733,6 @@
     - "Fate: Accelerated Edition Over-man Alliance (Korean)"
     - "Fate"
 
-  #=== end Fate ===
-
 #=== Gamma World ===
   gammaworld1e:
     - GammaWorld1e
@@ -766,10 +749,7 @@
     - "Gamma World: 7th Edition"
     - Gamma World
 
-  #=== end Gamma World ===
-
 #=== GUMSHOE ===
-
   nightblackagents:
     - "Night Black Agents gumshoe"
     - "Night Black Agents"
@@ -795,8 +775,6 @@
     - "Trail of Cthulhu (API-Compatible)"
     - "hidden"
 
-  #=== end GUMSHOE ===
-
 #=== GURPS ===
   gurps:
     - "GURPS"
@@ -813,11 +791,7 @@
     - Conspiracy X
     - "GURPS"
 
-
-  #=== end GURPS ===
-
 #=== Legend of the Five Rings ===
-
   l5rfantasyflight:
       - L5R Fantasy Flight Games
       - Legend of the Five Rings (Fantasy Flight Games)
@@ -837,8 +811,6 @@
     - L5R Advanced
     - Legend of the Five Rings (Advanced)
     - hidden
-
-  #=== end Legend of the Five Rings ===
 
 #=== Microlite20 ===
   beacon:
@@ -861,10 +833,7 @@
     - "Spylite"
     - "Microlite20"
 
-  #=== end Microlite20 ===
-
 #=== Mutants and Masterminds ===
-
   mamm2e:
   - "mutants-and-masterminds-2e-master"
   - "Mutants and Masterminds: 2nd Edition"
@@ -874,8 +843,6 @@
     - "Mutants and Masterminds 3E"
     - "Mutants and Masterminds: 3rd Edition"
     - "Mutants and Masterminds"
-
-  #=== end Mutants and Masterminds ===
 
 #=== Palladium ===
   palladium:
@@ -888,8 +855,6 @@
     - "Palladium Rifts"
     - "Palladium"
 
-  #=== end Palladium ===
-
 #=== Paranoia ===
   paranoia:
     - "Paranoia"
@@ -900,8 +865,6 @@
     - "Paranoia_Mongoose"
     - "Paranoia (Mongoose)"
     - "Paranoia"
-
-  #=== end Paranoia ===
 
 #=== Pathfinder ===
   pathfinderneceros:
@@ -939,8 +902,6 @@
     - "Pathfinder (Spanish)"
     - "hidden"
 
-  #=== end Pathfinder ===
-
 #=== Rats in the Walls ===
   ratsinthewall:
     - "Rats in the Walls"
@@ -952,8 +913,6 @@
     - "Ratas En Las Paredes"
     - "Rats in the Walls"
 
-  #=== end Rats in the Walls ===
-
 #=== Rolemaster ===
   rolemaster1e:
     - "Rolemaster_1E"
@@ -964,8 +923,6 @@
     - "Rolemaster-Standard-System"
     - "Rolemaster: Standard System"
     - "Rolemaster"
-
-  #=== end Rolemaster ===
 
 #=== RuneQuest ===
   runequest6:
@@ -983,18 +940,13 @@
     - "RuneQuest: 6th Edition (Spanish)"
     - "RuneQuest"
 
-  #=== end RuneQuest ===
-
 #=== RWBY Tabletop System ===
   rwbytabletop:
     - "RWBY_RoC-Unofficial_Tabletop_RPG"
     - "The Unofficial RWBY Tabletop System"
     - "RWBY Tabletop System"
-    
-  #=== end RWBY Tabletop System ===
 
 #=== Savage Worlds ===
-
   savageworlds:
     - "SavageWorlds"
     - "Savage Worlds"
@@ -1020,8 +972,6 @@
      - "Exo 2933"
      - "Savage Worlds"
 
-  #=== end Savage Worlds ===
-
 #=== Seventh Sea ===
   7thsea:
     - "7th Sea"
@@ -1032,8 +982,6 @@
     - "7th Sea 2e"
     - "7th Sea: 2nd Edition"
     - "Seventh Sea"
-
-  #=== end Seventh Sea ===
 
 #=== Shadowrun ===
   shadowrun5e:
@@ -1076,8 +1024,6 @@
     - "Shadowrun Anarchy"
     - "Shadowrun"
 
-  #=== end Shadowrun ===
-
 #=== Starfinder ===
   starfindersimple:
     - "Starfinder (simple)"
@@ -1089,10 +1035,7 @@
     - Starfinder HUD
     - "hidden"
 
-  #=== end Starfinder ===
-
 #=== Stars Without Number ===
-
   otherdust:
     - "Other_Dust"
     - "Other Dust"
@@ -1112,8 +1055,6 @@
     - "Stars_Without_Number_Revised"
     - "Stars Without Number (Revised)"
     - "Stars Without Number"
-
-  #=== end Stars Without Number ===
 
 #=== Storytelling System ===
   adventureww:
@@ -1150,6 +1091,11 @@
     - "NWOD-Demon"
     - "Demon: The Descent (nWoD)"
     - "Storytelling System"
+
+ # demondescent:
+   # - "DemonTheDescent"
+  #  - "Demon: The Descent"
+  #  - "Storytelling System"
 
   cwoddemonthefallen:
     - "CWOD-Demon"
@@ -1266,8 +1212,6 @@
     - "Wraith: The Oblivion"
     - "Storytelling System"
 
-  #=== end Storytelling System ===
-
 #=== Swords & Wizardry ===
   swordsandwiz:
     - "Swords_&_Wizardry"
@@ -1294,10 +1238,7 @@
     - "White Star"
     - "Swords & Wizardry"
 
-  #=== end Swords & Wizardry ===
-
 #=== The One Ring ===
-
   theonering:
     - "The One Ring"
     - "The One Ring"
@@ -1311,9 +1252,7 @@
   theoneringde:
     - "Der Eine Ring"
     - "Der Eine Ring (German)"
-  - "hidden"
-
-  #=== end The One Ring ===
+    - "hidden"
 
 #=== Tormenta ===
   tormentatabbed:
@@ -1331,10 +1270,7 @@
     - "Tormenta (Portuguese)"
     - "Tormenta"
 
-  #=== end Tormenta ===
-
 #=== Traveller ===
-
   classictraveller:
     - "Classic_Traveller"
     - "Classic Traveller"
@@ -1350,10 +1286,7 @@
     - "Mongoose Traveller: 2nd Edition"
     - "Traveller"
 
-  #=== end Traveller ===
-
 #=== Unknown Armies ===
-
   unknownarmies:
     - "UnknownArmies"
     - "Unknown Armies: 2nd Edition"
@@ -1369,11 +1302,8 @@
     - "Unknown Ponies"
     - "Unknown Armies"
 
-  #=== end Unknown Armies ===
-
 #=== Warhammer ===
   # Warhammer 40k
-  
   blackcrusade:
     - "Black_Crusade"
     - "Black Crusade"
@@ -1429,12 +1359,7 @@
     - "Wrath and Glory"
     - "Warhammer"
 
-  # Warhammer Fantasy
-  warhammerfantasy:
-    - "WFRP-2nd-Ed"
-    - "Warhammer Fantasy: 2nd Edition (Simple)"
-    - "Warhammer"
-    
+  # Warhammer Fantasy    
   warhammerfantasy2e:
     - "Warhammer-Fantasy-Roleplay-2nd-Edition"
     - "Warhammer Fantasy: 2nd Edition"
@@ -1450,6 +1375,11 @@
     - "Warhammer Fantasy: 2nd Edition (French)"
     - "Warhammer"
 
+  warhammerfantasy:
+    - "WFRP-2nd-Ed"
+    - "Warhammer Fantasy: 2nd Edition (Simple)"
+    - "Warhammer"
+
   wfrp3e:
     - "wfrp3e"
     - "Warhammer Fantasy: 3rd Edition"
@@ -1460,12 +1390,10 @@
     - "Warhammer Fantasy: 3rd Edition (French)"
     - "Warhammer"
 
-    wfrp4:
+  wfrp4:
     - "WFRP4CharSheet"
     - "Warhammer Fantasy: 4th Edition"
     - "Warhammer"
-
-  #=== end Warhammer ===
 
 #=== Year Zero ===
   forbiddenlands:
@@ -1493,8 +1421,7 @@
       - "Mutant: Year Zero"
       - "hidden"
 
-  #=== end Year Zero ===
-
+#=== Other Sheets ===
 starwarssaga:
   - "Star Wars Saga Edition"
   - "Star Wars: Saga Edition"
@@ -1550,29 +1477,29 @@ firefly:
   - "Firefly"
 
 fugue:
-- "Fugue"
-- "Fugue"
+  - "Fugue"
+  - "Fugue"
 
 asoiaf:
-- "Song of Ice and Fire Roleplaying"
-- "A Song of Ice and Fire"
+  - "Song of Ice and Fire Roleplaying"
+  - "A Song of Ice and Fire"
 
 labyrinthlord:
-- "Labyrinth-Lord"
-- "Labyrinth Lord"
+  - "Labyrinth-Lord"
+  - "Labyrinth Lord"
 
 castlesandcrusades:
-- "Castles&Crusades"
-- "Castles & Crusades"
+  - "Castles&Crusades"
+  - "Castles & Crusades"
 
 psipunk:
-- "Psi-Punk"
-- "Psi-Punk"
+  - "Psi-Punk"
+  - "Psi-Punk"
 
 numeneratwo:
-- "Numenera_NathasNumenera_English"
-- "Numenera (Tabbed)"
-- "hidden"
+  - "Numenera_NathasNumenera_English"
+  - "Numenera (Tabbed)"
+  - "hidden"
 
 numeneratwofrench:
  - "Numenera_NathasNumenera_French"
@@ -1580,87 +1507,87 @@ numeneratwofrench:
  - "hidden"
 
 marvelsh:
-- "MarvelSH"
-- "Marvel Superheroes"
+  - "MarvelSH"
+  - "Marvel Superheroes"
 
 maidrpg:
-- "Maid"
-- "Maid the Role Playing Game"
+  - "Maid"
+  - "Maid the Role Playing Game"
 
 continuum:
-- "Continuum"
-- "Continuum"
+  - "Continuum"
+  - "Continuum"
 
 basicfantasy:
-- "Basic Fantasy RPG"
-- "Basic Fantasy RPG"
-- "hidden"
+  - "Basic Fantasy RPG"
+  - "Basic Fantasy RPG"
+  - "hidden"
 
 starfrontiers:
-- "Star Frontiers"
-- "Star Frontiers"
-- "hidden"
+  - "Star Frontiers"
+  - "Star Frontiers"
+  - "hidden"
 
 herogames6e:
-- "Hero Games 6e"
-- "Hero Games: 6th Edition"
-- "hidden"
+  - "Hero Games 6e"
+  - "Hero Games: 6th Edition"
+  - "hidden"
 
 serenity:
-- "Serenity"
-- "Serenity"
+  - "Serenity"
+  - "Serenity"
 
 taverntales:
-- "Tavern-Tales"
-- "Tavern Tales"
+  - "Tavern-Tales"
+  - "Tavern Tales"
 
 witchhunter2e:
-- "Witch_Hunter_2e"
-- "Witch Hunter: 2nd Edition"
+  - "Witch_Hunter_2e"
+  - "Witch Hunter: 2nd Edition"
 
 cops:
-- "COPS"
-- "COPS"
+  - "COPS"
+  - "COPS"
 
 simplesystem:
-- "Simple System"
-- "Simple System"
+  - "Simple System"
+  - "Simple System"
 
 pendragon:
-- "Pendragon"
-- "King Arthur Pendragon"
-- "King Arthur Pendragon"
+  - "Pendragon"
+  - "King Arthur Pendragon"
+  - "King Arthur Pendragon"
 
 pendragonfrench:
-- "Pendragon-french"
-- "King Arthur Pendragon (French)"
-- "King Arthur Pendragon"
+  - "Pendragon-french"
+  - "King Arthur Pendragon (French)"
+  - "King Arthur Pendragon"
 
 yogsquest:
-- "Yogsquest"
-- "Yogsquest"
+  - "Yogsquest"
+  - "Yogsquest"
 
 torg:
-- "Torg"
-- "Torg"
-- "Torg"
+  - "Torg"
+  - "Torg"
+  - "Torg"
 
 portesmonstrestresors:
-- "PortesMonstresTresors"
-- "Portes Monstres Tresors (French)"
+  - "PortesMonstresTresors"
+  - "Portes Monstres Tresors (French)"
 
 kromore:
-- "Kromore"
-- "Kromore"
+  - "Kromore"
+  - "Kromore"
 
 ironkingdoms:
-- "Iron Kingdoms RPG"
-- "Iron Kingdoms"
+  - "Iron Kingdoms RPG"
+  - "Iron Kingdoms"
 
 eclipsephase:
-- "Eclipse Phase"
-- "Eclipse Phase"
-- "hidden"
+  - "Eclipse Phase"
+  - "Eclipse Phase"
+  - "hidden"
 
 13thageadvanced:
  - "13th_Age-neovatar"
@@ -1673,1191 +1600,1187 @@ eclipsephase:
  - "hidden"
 
 svavelvinter:
-- "Svavelvinter"
-- "Svavelvinter"
+  - "Svavelvinter"
+  - "Svavelvinter"
 
 betterangels:
-- "Better-Angels"
-- "Better Angels"
+  - "Better-Angels"
+  - "Better Angels"
 
 fallout:
-- "Fallout"
-- "Fallout 3.0"
-- "Fallout"
+  - "Fallout"
+  - "Fallout 3.0"
+  - "Fallout"
 
 ironclase:
-- "Ironclaw"
-- "Ironclaw"
+  - "Ironclaw"
+  - "Ironclaw"
 
 spycraft:
-- "Spycraft_2.0"
-- "Spycraft 2.0"
+  - "Spycraft_2.0"
+  - "Spycraft 2.0"
 
 toon:
-- "Toon"
-- "Toon"
+  - "Toon"
+  - "Toon"
 
 animaspanish:
-- "Anima-Beyond-Fantasy-Spanish"
-- "Anima: Beyond Fantasy (Spanish)"
-- "Anima Beyond Fantasy"
+  - "Anima-Beyond-Fantasy-Spanish"
+  - "Anima: Beyond Fantasy (Spanish)"
+  - "Anima Beyond Fantasy"
 
 lordsofgossamerandshadow:
-- "Lords-Of-Gossamer-And-Shadow"
-- "Lords of Gossamer and Shadow"
+  - "Lords-Of-Gossamer-And-Shadow"
+  - "Lords of Gossamer and Shadow"
 
 ghostbusters:
-- "Ghostbusters"
-- "Ghostbusters"
-- "Ghostbusters"
+  - "Ghostbusters"
+  - "Ghostbusters"
+  - "Ghostbusters"
 
 dnd5eshaped:
-- "5eShaped_legacy"
-- "5th Edition (Shaped, Legacy)"
-- "hidden"
+  - "5eShaped_legacy"
+  - "5th Edition (Shaped, Legacy)"
+  - "hidden"
 
 allfleshmustbeeaten:
-- "Unisystem-All Flesh Must Be Eaten"
-- "All Flesh Must Be Eaten"
-- Unisystem
+  - "Unisystem-All Flesh Must Be Eaten"
+  - "All Flesh Must Be Eaten"
+  - Unisystem
 
 thevoid:
-- "the-void"
-- "The Void"
-- "Void"
+  - "the-void"
+  - "The Void"
+  - "Void"
 
 dragonage:
-- "Dragon Age RPG"
-- "Dragon Age"
-- "hidden"
+  - "Dragon Age RPG"
+  - "Dragon Age"
+  - "hidden"
 
 myriadsong:
-- "Myriad Song"
-- "Myriad Song"
+  - "Myriad Song"
+  - "Myriad Song"
 
 flashingblades:
-- "Flashing_Blades"
-- "Flashing Blades"
+  - "Flashing_Blades"
+  - "Flashing Blades"
 
 iconsassembled:
-- "Icons Assembled"
-- "ICONS Assembled"
-- "ICONS"
+  - "Icons Assembled"
+  - "ICONS Assembled"
+  - "ICONS"
 
 mektonzeta:
-- "Mekton Z"
-- "Mekton Zeta"
-- "Fuzion"
+  - "Mekton Z"
+  - "Mekton Zeta"
+  - "Fuzion"
 
 naheulbeuk:
-- "Naheulbeuk"
-- "Le Donjon de Naheulbeuk (French)"
+  - "Naheulbeuk"
+  - "Le Donjon de Naheulbeuk (French)"
 
 cwrenaissance:
-- "CakebreadWaltonRenaissance"
-- "Renaissance"
+  - "CakebreadWaltonRenaissance"
+  - "Renaissance"
 
 eclipsespanish:
-- "Eclipse"
-- "Eclipse (Spanish)"
+  - "Eclipse"
+  - "Eclipse (Spanish)"
 
 atomichighway:
-- "Atomic Highway"
-- "Atomic Highway"
+  - "Atomic Highway"
+  - "Atomic Highway"
 
 pokemonadventure:
-- "PokemonTabletopAdventures"
-- "Pokemon Tabletop Adventures" 
-- "Pokemon"
+  - "PokemonTabletopAdventures"
+  - "Pokemon Tabletop Adventures" 
+  - "Pokemon"
 
 DtD40000:
-- "Dungeons the Dragoning 40000 7th Edition"
-- "Dungeons the Dragoning 40000 7th Edition"
+  - "Dungeons the Dragoning 40000 7th Edition"
+  - "Dungeons the Dragoning 40000 7th Edition"
 
 koboldsbaby:
-- "Kobolds Ate My Baby"
-- "Kobolds Ate My Baby"
+  - "Kobolds Ate My Baby"
+  - "Kobolds Ate My Baby"
 
 fengshui:
-- "Feng Shui"
-- "Feng Shui"
-- "Feng Shui"
+  - "Feng Shui"
+  - "Feng Shui"
+  - "Feng Shui"
 
 fantasyage:
-- "Fantasy Age"
-- "Fantasy Age"
-- "hidden"
+  - "Fantasy Age"
+  - "Fantasy Age"
+  - "hidden"
 
 heroquest:
-- "HeroQuest"
-- "Hero Quest"
+  - "HeroQuest"
+  - "Hero Quest"
 
 risus: 
-- "Risus Space Opera"
-- "Risus Space Opera"
+  - "Risus Space Opera"
+  - "Risus Space Opera"
 
 fengshui2:
-- "Feng-Shui-2"
-- "Feng Shui 2"
-- "Feng Shui"
+  - "Feng-Shui-2"
+  - "Feng Shui 2"
+  - "Feng Shui"
 
 harrypotter:
-- "Harry Potter"
-- "Harry Potter RPG"
+  - "Harry Potter"
+  - "Harry Potter RPG"
 
 doctorwho:
-- "Doctor Who Adventures in Time and Space"
-- "Doctor Who RPG"
+  - "Doctor Who Adventures in Time and Space"
+  - "Doctor Who RPG"
 
 strike:
-- "Strike!"
-- "Strike!"
+  - "Strike!"
+  - "Strike!"
 
 conan2e:
-- "Conan-2nd-Ed"
-- "Conan: 2nd Edition"
+  - "Conan-2nd-Ed"
+  - "Conan: 2nd Edition"
 
 sweotefr:
-- "Star Wars EotEmpire_Dice - FR"
-- "Star Wars: FFG (French)"
-- "Star Wars"
+  - "Star Wars EotEmpire_Dice - FR"
+  - "Star Wars: FFG (French)"
+  - "Star Wars"
 
 dungeonslayers:
-- "Dungeon-slayers-4"
-- "Dungeon Slayers 4"
-- "hidden"
+  - "Dungeon-slayers-4"
+  - "Dungeon Slayers 4"
+  - "hidden"
 
 dungeonsquad:
-- "DungeonSquad"
-- "Dungeon Squad"
+  - "DungeonSquad"
+  - "Dungeon Squad"
 
 demonhunters: 
-- "Demon Hunters Beta"
-- "Demon Hunters"
+  - "Demon Hunters Beta"
+  - "Demon Hunters"
 
 symbaroum:
-- "Symbaroum"
-- "Symbaroum"
+  - "Symbaroum"
+  - "Symbaroum"
 
 sotdl:
-- "Shadow of the Demon Lord"
-- "Shadow of the Demon Lord"
+  - "Shadow of the Demon Lord"
+  - "Shadow of the Demon Lord"
 
 animafr:
-- "Anima-Beyond-Fantasy-French"
-- "Anima: Beyond Fantasy (French)"
-- "Anima Beyond Fantasy"
+  - "Anima-Beyond-Fantasy-French"
+  - "Anima: Beyond Fantasy (French)"
+  - "Anima Beyond Fantasy"
 
 tenrazero:
-- "Tenra Bansho Zero"
-- "Tenra Bansho Zero"
+  - "Tenra Bansho Zero"
+  - "Tenra Bansho Zero"
 
 delve: 
-- "Delve"
-- "Delve"
+  - "Delve"
+  - "Delve"
 
 shadowssol:
-- "Shadows Over Sol"
-- "Shadows Over Sol"
+  - "Shadows Over Sol"
+  - "Shadows Over Sol"
 
 lotfp:
-- "Lotfp"
-- "Lamentations of the Flame Princess"
+  - "Lotfp"
+  - "Lamentations of the Flame Princess"
 
 technoir:
-- "Technoir"
-- "Technoir"
+  - "Technoir"
+  - "Technoir"
 
 tephra:
-- "Tephra"
-- "Tephra"
+  - "Tephra"
+  - "Tephra"
 
 againstthedarkyogi:
-- "Against the Dark Yogi"
-- "Against the Dark Yogi"
+  - "Against the Dark Yogi"
+  - "Against the Dark Yogi"
 
 tigresvolants:
-- "tigres_volants"
-- "Tigres Volants"
+  - "tigres_volants"
+  - "Tigres Volants"
 
 silhouettecore:
-- "Silhouette_Core"
-- "Silhouette Core"
+  - "Silhouette_Core"
+  - "Silhouette Core"
 
 hcsvntdracones:
-- "Hc Svnt Dracones"
-- "Hc Svnt Dracones"
+  - "Hc Svnt Dracones"
+  - "Hc Svnt Dracones"
+  - "Hc Svnt Dracones"
 
 ffgendoftheworld:
-- "FFG_End-of-the-World"
-- "End of the World"
+  - "FFG_End-of-the-World"
+  - "End of the World"
 
 halomythic:
-- "Halo_Mythic"
-- "Halo Mythic"
+  - "Halo_Mythic"
+  - "Halo Mythic"
 
 alternityrpg:
-- "Alternity-RPG"
-- "Alternity"
+  - "Alternity-RPG"
+  - "Alternity"
 
 impulsedrive:
-- "Impulse_Drive"
-- "Impulse Drive"
+  - "Impulse_Drive"
+  - "Impulse Drive"
 
 friponeesrpg:
-- "Friponnes RPG"
-- "Friponnes (French)"
+  - "Friponnes RPG"
+  - "Friponnes (French)"
 
 fuzion:
-- "Fuzion"
-- "Fuzion"
-- "Fuzion"
+  - "Fuzion"
+  - "Fuzion"
+  - "Fuzion"
 
 tristat:
-- "Tri-Stat"
-- "Tri-Stat"
+  - "Tri-Stat"
+  - "Tri-Stat"
 
 victoriana2e:
-- "Victoriana 2ed"
-- "Victoriana 2nd Edition"
+  - "Victoriana 2ed"
+  - "Victoriana 2nd Edition"
 
 ghostbusterssp:
-- "Ghostbusters Expanded Spanish"
-- "Ghostbusters (Spanish)"
-- "Ghostbusters"
+  - "Ghostbusters Expanded Spanish"
+  - "Ghostbusters (Spanish)"
+  - "Ghostbusters"
 
 titansgrave:
-- "Titansgrave"
-- "Titansgrave"
-- "hidden"
+  - "Titansgrave"
+  - "Titansgrave"
+  - "hidden"
 
 ryuutama:
-- "Ryuutama"
-- "Ryuutama"
+  - "Ryuutama"
+  - "Ryuutama"
 
 oltreefr:
-- "Oltree-FR"
-- "Oltréé! (French)"
+  - "Oltree-FR"
+  - "Oltréé! (French)"
 
 supersix:
-- "Supersix"
-- "Supersix (French)"
+  - "Supersix"
+  - "Supersix (French)"
 
 insmv5efr:
-- "INS-MV_5E"
-- "In Nomine Satanis / Magna Veritas 5th Edition (French)"
+  - "INS-MV_5E"
+  - "In Nomine Satanis / Magna Veritas 5th Edition (French)"
 
 leverage:
-- "Leverage"
-- "Leverage"
+  - "Leverage"
+  - "Leverage"
 
 bashultimateed:
-- "BASH Ultimate Edition"
-- "BASH Ultimate Edition"
+  - "BASH Ultimate Edition"
+  - "BASH Ultimate Edition"
 
 bulletproofblues:
-- "Bulletproof Blues"
-- "Bulletproof Blues"
+  - "Bulletproof Blues"
+  - "Bulletproof Blues"
 
 fairytail:
-- "Fairytail"
-- "Fairy Tail"
+  - "Fairytail"
+  - "Fairy Tail"
 
 ova:
-- "OVA"
-- "OVA: The Anime RPG"
+  - "OVA"
+  - "OVA: The Anime RPG"
 
 hollowearthexpedition:
-- "HollowEarthExpedition"
-- "Hollow Earth Expedition"
-- "Ubiquity"
+  - "HollowEarthExpedition"
+  - "Hollow Earth Expedition"
+  - "Ubiquity"
 
 aliens:
-- "Aliens"
-- "Aliens"
+  - "Aliens"
+  - "Aliens"
 
 dogsinthevineyard:
-- "Dogs-in-the-Vineyard"
-- "Dogs in the Vineyard"
+  - "Dogs-in-the-Vineyard"
+  - "Dogs in the Vineyard"
 
 cahiersduvastemondefr:
-- "CahiersDuVastemonde"
-- "Cahiers du Vastemonde"
+  - "CahiersDuVastemonde"
+  - "Cahiers du Vastemonde"
 
 starwarseoteapi:
-- "Star Wars FFG API-Compatible"
-- "Star Wars: FFG (API-Compatible)"
-- "Star Wars"
+  - "Star Wars FFG API-Compatible"
+  - "Star Wars: FFG (API-Compatible)"
+  - "Star Wars"
 
 bladesinthedark:
-- "Blades-in-the-Dark"
-- "Blades in the Dark"
-- "hidden"
+  - "Blades-in-the-Dark"
+  - "Blades in the Dark"
+  - "hidden"
 
 ccvf:
-- "Capes, Cowls & Villains Foul"
-- "Capes, Cowls & Villains Foul"
+  - "Capes, Cowls & Villains Foul"
+  - "Capes, Cowls & Villains Foul"
 
 thesprawl:
-- "The_Sprawl"
-- "The Sprawl"
-- "hidden"
+  - "The_Sprawl"
+  - "The Sprawl"
+  - "hidden"
 
 fraggedempire:
-- "Fragged-Empire"
-- "Fragged Empire"
+  - "Fragged-Empire"
+  - "Fragged Empire"
 
 starmarxfr:
-- "Star Marx"
-- "STAR Marx (French)"
+  - "Star Marx"
+  - "STAR Marx (French)"
 
 iconsassembledfr:
-- "Icons French"
-- "ICONS Assembled (French)"
-- "ICONS"
+  - "Icons French"
+  - "ICONS Assembled (French)"
+  - "ICONS"
 
 roleplayingismagic4e:
-- "RoleplayingIsMagic_4E"
-- "Roleplaying is Magic: 4th Edition"
-
-rwbytabletop:
-- "RWBY_RoC-Unofficial_Tabletop_RPG"
-- "The Unofficial RWBY Tabletop System"
-- "RWBY Tabletop System"
+  - "RoleplayingIsMagic_4E"
+  - "Roleplaying is Magic: 4th Edition"
 
 dragonquest:
-- "DragonQuest"
-- "DragonQuest"
+  - "DragonQuest"
+  - "DragonQuest"
 
 shadowsofesteren:
-- "Shadows of Esteren"
-- "Shadows of Esteren"
+  - "Shadows of Esteren"
+  - "Shadows of Esteren"
 
 remnants:
-- "Remnants"
-- "Remnants"
+  - "Remnants"
+  - "Remnants"
 
 qinwarringstates:
-- "Qin Warring States"
-- "Qin: Warring States"
+  - "Qin Warring States"
+  - "Qin: Warring States"
 
 degenesis:
-- "Degenesis"
-- "Degenesis"
+  - "Degenesis"
+  - "Degenesis"
 
 harn:
-- "harnmaster"
-- "Harn"
-- "Harn"
+  - "harnmaster"
+  - "Harn"
+  - "Harn"
 
 lamesducardinalfr:
-- "Lames du Cardinal"
-- "Lames du Cardinal (French)"
+  - "Lames du Cardinal"
+  - "Lames du Cardinal (French)"
 
 revededragonfr:
-- "Reve de Dragon - french"
-- "Reve de Dragon (French)"
+  - "Reve de Dragon - french"
+  - "Reve de Dragon (French)"
 
 chrisperrinsmecha:
-- "ChrisPerrinsMecha"
-- "Chris Perrin's Mecha"
+  - "ChrisPerrinsMecha"
+  - "Chris Perrin's Mecha"
 
 spelltherpg:
-- "Spell_the_RPG"
-- "Spell: the RPG"
+  - "Spell_the_RPG"
+  - "Spell: the RPG"
 
 deadlandsclassic:
-- "Deadlands Classic"
-- "Deadlands: Classic"
+  - "Deadlands Classic"
+  - "Deadlands: Classic"
 
 digitalshades:
-- "Digital Shades"
-- "Digital Shades"
+  - "Digital Shades"
+  - "Digital Shades"
 
 fallout20:
-- "Fallout (classic_pnp 2)"
-- "Fallout 2.0"
-- "Fallout"
+  - "Fallout (classic_pnp 2)"
+  - "Fallout 2.0"
+  - "Fallout"
 
 magus:
-- "MAGUS_UTK"
-- "M.A.G.U.S. - Új Törvénykönyv (Hungarian)"
+  - "MAGUS_UTK"
+  - "M.A.G.U.S. - Új Törvénykönyv (Hungarian)"
 
 godbound:
-- "Godbound"
-- "Godbound"
+  - "Godbound"
+  - "Godbound"
 
 stalkerscifirpg:
-- "Stalker - The SciFi Roleplaying Game"
-- "Stalker: SciFi Roleplaying Game"
-- "FLOW"
+  - "Stalker - The SciFi Roleplaying Game"
+  - "Stalker: SciFi Roleplaying Game"
+  - "FLOW"
 
 lowfantasygaming:
-- "Low Fantasy Gaming"
-- "Low Fantasy Gaming"
+  - "Low Fantasy Gaming"
+  - "Low Fantasy Gaming"
 
 alpha3dat:
-- "3DeT_ALPHA"
-- "3D&T Alpha"
-- "hidden"
+  - "3DeT_ALPHA"
+  - "3D&T Alpha"
+  - "hidden"
 
 arsmagica5:
-- "Ars_Magica_5th"
-- "Ars Magica: 5th Edition"
+  - "Ars_Magica_5th"
+  - "Ars Magica: 5th Edition"
 
 hauntedhousees:
-- "Haunted-House_Spanish"
-- "Haunted House (Spanish)"
+  - "Haunted-House_Spanish"
+  - "Haunted House (Spanish)"
 
 monsterschildishthings:
-- "Monsters and Other Childish Things"
-- "Monsters and Other Childish Things"
-#- "One-Roll Engine" this is the only sheet from this system
-
+  - "Monsters and Other Childish Things"
+  - "Monsters and Other Childish Things"
+  - "One-Roll Engine"
+  
 neonsolitude:
-- "NeonSolitude"
-- "Neon Solitude"
+  - "NeonSolitude"
+  - "Neon Solitude"
 
 leagueofadventuresfr:
-- "LeaguesOfAdventures-fr"
-- "Leagues of Adventure (French)"
-- "Ubiquity"
+  - "LeaguesOfAdventures-fr"
+  - "Leagues of Adventure (French)"
+  - "Ubiquity"
 
 twilight2000:
-- "Twilight-2000-v2.2"
-- "Twilight 2000"
+  - "Twilight-2000-v2.2"
+  - "Twilight 2000"
 
 fasatrek:
-- "FASATrek"
-- "FASATrek"
+  - "FASATrek"
+  - "FASATrek"
 
 hawkmoon:
-- "Hawkmoon"
-- "Hawkmoon"
-- "Hawkmoon"
+  - "Hawkmoon"
+  - "Hawkmoon"
+  - "Hawkmoon"
 
 ffrpg3rd:
-- "FFRPG Third Edition"
-- "Final Fantasy RPG: 3rd Edition"
+  - "FFRPG Third Edition"
+  - "Final Fantasy RPG: 3rd Edition"
 
 straighttovhs:
-- "StraightToVHS"
-- "Straight to VHS"
+  - "StraightToVHS"
+  - "Straight to VHS"
 
 threedandtalpha:
-- "3D&T_ALPHA"
-- "3D&T ALPHA (Portuguese)"
+  - "3D&T_ALPHA"
+  - "3D&T ALPHA (Portuguese)"
 
 polaris:
-- "Polaris"
-- "Polaris"
+  - "Polaris"
+  - "Polaris"
 
 antikafr:
-- "Antika"
-- "Antika (French)"
+  - "Antika"
+  - "Antika (French)"
 
 krystalfr:
-- "Krystal (FR)"
-- "Krystal (French)"
+  - "Krystal (FR)"
+  - "Krystal (French)"
 
 zweihandergap:
-- "Zweihänder Grim & Perilous"
-- "Zweihänder Grim & Perilous"
+  - "Zweihänder Grim & Perilous"
+  - "Zweihänder Grim & Perilous"
 
 basicroleplayingexp:
-- "Basic Fantasy RPG - Expanded"
-- "Basic Fantasy RPG"
+  - "Basic Fantasy RPG - Expanded"
+  - "Basic Fantasy RPG"
 
 littlefearsnightmareed:
-- "Little-Fears-Nightmare-Edition"
-- "Little Fears Nightmare Edition"
+  - "Little-Fears-Nightmare-Edition"
+  - "Little Fears Nightmare Edition"
 
 infected:
-- "Infected!"
-- "Infected!"
+  - "Infected!"
+  - "Infected!"
 
 dragondeponche2:
-- "Dragon De Poche 2"
-- "Dragon De Poche 2 (French)"
+  - "Dragon De Poche 2"
+  - "Dragon De Poche 2 (French)"
 
 deadofnight:
-- "Dead-of-Night"
-- "Dead of Night"
+  - "Dead-of-Night"
+  - "Dead of Night"
 
 radiance:
-- "Radiance"
-- "Radiance"
+  - "Radiance"
+  - "Radiance"
 
 knightfr:
-- "Knight"
-- "Knight (French)"
+  - "Knight"
+  - "Knight (French)"
 
 openlegend:
-- "Open Legend"
-- "Open Legend"
+  - "Open Legend"
+  - "Open Legend"
 
 wurm:
-- "Wurm"
-- "Wurm, the Ice Age RPG"
+  - "Wurm"
+  - "Wurm, the Ice Age RPG"
 
 blueplanetv2:
-- "Blue Planet V2"
-- "Blue Planet"
+  - "Blue Planet V2"
+  - "Blue Planet"
 
 barbariansoflemuriamythic:
-- "Barbarians Of Lemuria - Mythic"
-- "Barbarians Of Lemuria: Mythic Edition"
+  - "Barbarians Of Lemuria - Mythic"
+  - "Barbarians Of Lemuria: Mythic Edition"
 
 prowlersandparagons:
-- "Prowlers-n-Paragons"
-- "Prowlers & Paragons"
+  - "Prowlers-n-Paragons"
+  - "Prowlers & Paragons"
 
 topsecret:
-- "Top Secret"
-- "Top Secret"
+  - "Top Secret"
+  - "Top Secret"
 
 herokids:
-- "Hero Kids"
-- "Hero Kids"
+  - "Hero Kids"
+  - "Hero Kids"
 
 marvelheroicroleplaying:
-- "Marvel Heroic Roleplaying"
-- "Marvel Heroic Roleplaying"
+  - "Marvel Heroic Roleplaying"
+  - "Marvel Heroic Roleplaying"
 
 macchiatomonsters:
-- "Macchiato Monsters"
-- "Macchiato Monsters"
+  - "Macchiato Monsters"
+  - "Macchiato Monsters"
 
 agonefr:
-- "Agone-(french)"
-- "Agone (French)"
+  - "Agone-(french)"
+  - "Agone (French)"
 
 aboreade:
-- "Aborea"
-- "Aborea (German)"
+  - "Aborea"
+  - "Aborea (German)"
 
 fallout35:
-- "Fallout 3.5"
-- "Fallout 3.5"
-- "Fallout"
+  - "Fallout 3.5"
+  - "Fallout 3.5"
+  - "Fallout"
 
 animecampaign:
-- "Anime Campaign"
-- "Anime Campaign"
+  - "Anime Campaign"
+  - "Anime Campaign"
 
 kult3e:
-- "Kult"
-- "Kult: 3rd Edition"
+  - "Kult"
+  - "Kult: 3rd Edition"
 
 hellywood:
-- "Hellywood"
-- "Hellywood"
+  - "Hellywood"
+  - "Hellywood"
 
 mordiou:
-- "Mordiou"
-- "Mordiou ! (French)"
+  - "Mordiou"
+  - "Mordiou ! (French)"
 
 starfrontiers2:
-- "Star Frontiers 2"
-- "Star Frontiers"
+  - "Star Frontiers 2"
+  - "Star Frontiers"
 
 bigeyessmallmouth3e:
-- "BESM-3e"
-- "Big Eyes Small Mouth"
-- "Big Eyes Small Mouth"
+  - "BESM-3e"
+  - "Big Eyes Small Mouth"
+  - "Big Eyes Small Mouth"
 
 spaceninjacybercrisis:
-- "SpaceNinjaCyberCrisis"
-- "Space Ninja Cyber Crisis XDO"
+  - "SpaceNinjaCyberCrisis"
+  - "Space Ninja Cyber Crisis XDO"
 
 cyberspace:
-- "Cyberspace"
-- "Cyberspace"
+  - "Cyberspace"
+  - "Cyberspace"
 
 runequest3ed:
-- "Runequest3"
-- "RuneQuest: 3rd Edition"
-- "RuneQuest"
+  - "Runequest3"
+  - "RuneQuest: 3rd Edition"
+  - "RuneQuest"
 
 bladesinthedarkadvanced:
-- "Blades in the Dark"
-- "Blades in the Dark"
+  - "Blades in the Dark"
+  - "Blades in the Dark"
 
 mistborn:
-- "Mistborn"
-- "Mistborn Adventure Game"
+  - "Mistborn"
+  - "Mistborn Adventure Game"
 
 bigeyessmallmouth3esimple:
-- "BESM3rd"
-- "Big Eyes Small Mouth: 3rd Edition (Simple)"
-- "Big Eyes Small Mouth"
+  - "BESM3rd"
+  - "Big Eyes Small Mouth: 3rd Edition (Simple)"
+  - "Big Eyes Small Mouth"
 
 drakarochdemoner:
-- "Drakar och Demoner 6.0"
-- "Drakar och Demoner 6.0 (Swedish)"
+  - "Drakar och Demoner 6.0"
+  - "Drakar och Demoner 6.0 (Swedish)"
 
 channelfearfr:
-- "channel fear"
-- "Channel Fear (French)"
+  - "channel fear"
+  - "Channel Fear (French)"
 
 quarts:
-- "QUARTS"
-- "Q.U.A.R.T.S."
+  - "QUARTS"
+  - "Q.U.A.R.T.S."
 
 multiverse:
-- "Multiverse"
-- "Multiverse"
+  - "Multiverse"
+  - "Multiverse"
 
 mutrantcrawlclassics:
-- "MCC_Tabbed_Sheet"
-- "Mutant Crawl Classics"
+  - "MCC_Tabbed_Sheet"
+  - "Mutant Crawl Classics"
 
 brigandynefr:
-- "Brigandyne"
-- "Brigandyne (French)"
+  - "Brigandyne"
+  - "Brigandyne (French)"
 
 dimeadventures:
-- "Dime Adventures"
-- "Dime Adventures"
+  - "Dime Adventures"
+  - "Dime Adventures"
 
 planetmercenary:
-- "Planet_Mercenary"
-- "Planet Mercenary"
+  - "Planet_Mercenary"
+  - "Planet Mercenary"
 
 dungeonslayers4e:
-- "Dungeonslayers-4"
-- "Dungeon Slayers: 4th Edition"
+  - "Dungeonslayers-4"
+  - "Dungeon Slayers: 4th Edition"
 
 metamorphosisalphae1:
-- "MetamorphosisAlpha_1e"
-- "Metamorphosis Alpha: 1st Edition"
+  - "MetamorphosisAlpha_1e"
+  - "Metamorphosis Alpha: 1st Edition"
 
 tailsofequestria:
-- "TailsOfEquestria"
-- "Tails of Equestria"
+  - "TailsOfEquestria"
+  - "Tails of Equestria"
 
 solipstry:
-- "Solipstry"
-- "Solipstry"
+  - "Solipstry"
+  - "Solipstry"
 
 whatsoldisnew:
-- "WOIN"
-- "What’s O.L.D. is N.E.W."
+  - "WOIN"
+  - "What’s O.L.D. is N.E.W."
 
 pathofpaper:
-- "Path of Paper"
-- "Path of Paper"
+  - "Path of Paper"
+  - "Path of Paper"
 
 starwarsrevised:
-- "Star Wars Revised RPG"
-- "Star Wars Revised"
-- "Star Wars"
+  - "Star Wars Revised RPG"
+  - "Star Wars Revised"
+  - "Star Wars"
 
 icrpg:
-- "ICRPG"
-- "Index Card RPG"
-- "ICRPG"
+  - "ICRPG"
+  - "Index Card RPG"
+  - "ICRPG"
 
 sigthecitybetween:
-- "SIG"
-- "Sig: The City Between"
+  - "SIG"
+  - "Sig: The City Between"
 
 splittermond:
-- "Splittermond"
-- "Splittermond (German)"
+  - "Splittermond"
+  - "Splittermond (German)"
 
 acks:
-- "ACKS"
-- "Adventure Conqueror King"
+  - "ACKS"
+  - "Adventure Conqueror King"
 
 icrpgwarpshell:
-- "ICRPG (Warp Shell)"
-- "Index Card RPG (Warp Shell)"
-- "ICRPG"
+  - "ICRPG (Warp Shell)"
+  - "Index Card RPG (Warp Shell)"
+  - "ICRPG"
 
 endallbeallrpg:
-- "End All Be All RPG - Roleplaying without Limits"
-- "End All Be All RPG"
+  - "End All Be All RPG - Roleplaying without Limits"
+  - "End All Be All RPG"
 
 bluerose:
-- "Blue Rose"
-- "Blue Rose"
-- "hidden"
+  - "Blue Rose"
+  - "Blue Rose"
+  - "hidden"
 
 loghorizon:
-- "Log Horizon TRPG"
-- "Log Horizon TRPG"
+  - "Log Horizon TRPG"
+  - "Log Horizon TRPG"
 
 torgeternity:
-- "Torg Eternity"
-- "Torg Eternity"
-- "Torg"
+  - "Torg Eternity"
+  - "Torg Eternity"
+  - "Torg"
 
 openlegendmin:
-- "OpenLegend_Minimalist"
-- "Open Legend (Minimalist)"
-- "Open Legend"
+  - "OpenLegend_Minimalist"
+  - "Open Legend (Minimalist)"
+  - "Open Legend"
 
 mythras:
-- "Mythras"
-- "Mythras"
-- "Mythras System"
+  - "Mythras"
+  - "Mythras"
+  - "Mythras System"
 
 cronicasrpg:
-- "Cronicas-RPG"
-- "Creation of Crônicas"
+  - "Cronicas-RPG"
+  - "Creation of Crônicas"
 
 scumandvillainy:
-- "Scum - Villainy"
-- "Scum and Villainy"
+  - "Scum - Villainy"
+  - "Scum and Villainy"
 
 deltagreen:
-- "Delta Green"
-- "Delta Green"
+  - "Delta Green"
+  - "Delta Green"
 
 babylon5:
-- "Babylon 5"
-- "Babylon 5: 2nd Edition"
+  - "Babylon 5"
+  - "Babylon 5: 2nd Edition"
 
 psirun:
-- "psirun"
-- "Psi*Run"
+  - "psirun"
+  - "Psi*Run"
 
 arcanecodex:
-- "ArcaneCodex"
-- "Arcane Codex"
+  - "ArcaneCodex"
+  - "Arcane Codex"
 
 cortexplusheroic:
-- "Cortex Plus Heroic"
-- "Cortex Plus Heroic"
+  - "Cortex Plus Heroic"
+  - "Cortex Plus Heroic"
 
 guildesqdo:
-- "Guildes QdO"
-- "Guildes"
+  - "Guildes QdO"
+  - "Guildes"
 
 pastspersonasprophecies:
-- "Pasts_Personas_Prophecies"
-- "Pasts, Personas, and Phrophecies"
+  - "Pasts_Personas_Prophecies"
+  - "Pasts, Personas, and Phrophecies"
 
 olddragon:
-- "OldDragon"
-- "Old Dragon RPG"
+  - "OldDragon"
+  - "Old Dragon RPG"
 
 scarletheroes:
-- "Scarlet Heros"
-- "Scarlet Heroes"
+  - "Scarlet Heros"
+  - "Scarlet Heroes"
 
 morrowproject:
-- "MorrowProject4e"
-- "Morrow Project"
+  - "MorrowProject4e"
+  - "Morrow Project"
 
 battletech:
-- "BattleTech-A-Time-of-War"
-- "BattleTech: Time of War"
+  - "BattleTech-A-Time-of-War"
+  - "BattleTech: Time of War"
 
 cthulhudark:
-- "Cthulhu Dark"
-- "Cthulhu Dark"
+  - "Cthulhu Dark"
+  - "Cthulhu Dark"
 
 stargatecoalition:
-- "Stargate Coalition"
-- "Stargate Coalition"
-- "Stargate"
+  - "Stargate Coalition"
+  - "Stargate Coalition"
+  - "Stargate"
 
 hawkmoonmongoose:
-- "Hawkmoon_mongoose"
-- "Hawkmoon (Mongoose)"
-- "Hawkmoon"
+  - "Hawkmoon_mongoose"
+  - "Hawkmoon (Mongoose)"
+  - "Hawkmoon"
 
 acpd:
-- "ACPD"
-- "Atlantic City Police Department"
+  - "ACPD"
+  - "Atlantic City Police Department"
 
 fantasticheros:
-- "Fantastic Heros & Witchery"
-- "Fantastic Heroes & Witchery"
+  - "Fantastic Heros & Witchery"
+  - "Fantastic Heroes & Witchery"
 
 mutantepoch:
-- "The Mutant Epoch"
-- "The Mutant Epoch"
+  - "The Mutant Epoch"
+  - "The Mutant Epoch"
 
 faith:
-- "FAITH"
-- "FAITH"
+  - "FAITH"
+  - "FAITH"
 
 cerbere:
-- "Cerbere"
-- "Le Métal Froid des Anneaux de Cerbère"
+  - "Cerbere"
+  - "Le Métal Froid des Anneaux de Cerbère"
 
 cepheusengine:
-- "Cepheus Engine"
-- "Cepheus Engine"
+  - "Cepheus Engine"
+  - "Cepheus Engine"
 
 ffd20:
-- "FFD20"
-- "Final Fantasy d20"
+  - "FFD20"
+  - "Final Fantasy d20"
 
 kuro:
-- "Kuro"
-- "Kuro"
+  - "Kuro"
+  - "Kuro"
 
 wodvtm5e:
-- "WODVtM5eAlpha"
-- "Vampire: the Masquerade 5e (alpha)"
-- "hidden"
+  - "WODVtM5eAlpha"
+  - "Vampire: the Masquerade 5e (alpha)"
+  - "hidden"
 
 honeyheist:
-- "Honey Heist - Simple"
-- "Honey Heist"
+  - "Honey Heist - Simple"
+  - "Honey Heist"
 
 shaan:
-- "Shaan"
-- "Shaan Renaissance"
-- hidden
+  - "Shaan"
+  - "Shaan Renaissance"
+  - hidden
 
 shaantabbed:
-- "Shaan (tabbed)"
-- "Shaan Renaissance"
+  - "Shaan (tabbed)"
+  - "Shaan Renaissance"
 
 weaverdice:
-- "Weaverdice"
-- "Weaverdice"
+  - "Weaverdice"
+  - "Weaverdice"
 
 asandsh:
-- AS&SH
-- Astonishing Swordsmen & Sorcerers of Hyperborea
+  - AS&SH
+  - Astonishing Swordsmen & Sorcerers of Hyperborea
 
 dungeonsanddelvers:
-- Dungeons and Delvers
-- Dungeons and Delvers
+  - Dungeons and Delvers
+  - Dungeons and Delvers
 
 rottedcapes:
-- Rotted Capes
-- Rotted Capes
+  - Rotted Capes
+  - Rotted Capes
 
 aventures:
-- Aventures
-- Aventures
+  - Aventures
+  - Aventures
 
 mspace:
-- M-Space
-- M-Space
-- "Mythras System"
+  - M-Space
+  - M-Space
+  - "Mythras System"
 
 tagmar:
-- Tagmar
-- Tagmar
+  - Tagmar
+  - Tagmar
 
 harnmaster3:
-- HarnMaster3
-- Harn Master 3
-- Harn
+  - HarnMaster3
+  - Harn Master 3
+  - Harn
 
 breakfastcult:
-- Breakfast Cult
-- Breakfast Cult
+  - Breakfast Cult
+  - Breakfast Cult
 
 mechaandmonsters:
-- MechaAndMonsters
-- Mecha and Monsters
+  - MechaAndMonsters
+  - Mecha and Monsters
 
 genesys:
-- Genesys-RPG
-- Genesys
+  - Genesys-RPG
+  - Genesys
 
 revolutiond100:
-- revolutiond100
-- Revolution D100
+  - revolutiond100
+  - Revolution D100
 
 unisystembuffyorangel:
-- Unisystem-Buffy or Angel
-- Buffy or Angel
-- Unisystem
+  - Unisystem-Buffy or Angel
+  - Buffy or Angel
+  - Unisystem
 
 heroquestglorantha:
-- Heroquest_Glorantha
-- HeroQuest Glorantha
+  - Heroquest_Glorantha
+  - HeroQuest Glorantha
 
 runequestglorantha:
-- RunequestGQS
-- RuneQuest Glorantha
-- RuneQuest
+  - RunequestGQS
+  - RuneQuest Glorantha
+  - RuneQuest
 
 overtheedge2e:
-- Over the Edge 2e
-- Over the Edge (2e)
+  - Over the Edge 2e
+  - Over the Edge (2e)
 
 lyceennes:
-- Lyceennes
-- Lyceennes
+  - Lyceennes
+  - Lyceennes
 
 eclipsephasenew:
-- Eclipse Phase Alternate
-- Eclipse Phase
-- Eclipse Phase
+  - Eclipse Phase Alternate
+  - Eclipse Phase
+  - Eclipse Phase
 
 eclipsephasev2:
-- Eclipse Phase V2
-- Eclipse Phase V2
-- Eclipse Phase
+  - Eclipse Phase V2
+  - Eclipse Phase V2
+  - Eclipse Phase
 
 capharnaum:
-- Capharnaum
-- Capharnaum
+  - Capharnaum
+  - Capharnaum
 
 fireemblemtt:
-- Xeohelios' Fire Emblem Tabletop
-- Fire Emblem Tabletop (by Xeohelios)
+  - Xeohelios' Fire Emblem Tabletop
+  - Fire Emblem Tabletop (by Xeohelios)
 
 agon:
-- Agon
-- Agon
+  - Agon
+  - Agon
 
 alasfortheawfulsea:
-- Alas For The Awful Sea
-- Alas For The Awful Sea
+  - Alas For The Awful Sea
+  - Alas For The Awful Sea
 
 ladyblackbird:
-- Lady Blackbird
-- Lady Blackbird
+  - Lady Blackbird
+  - Lady Blackbird
 
 elitedangerous:
-- Elite Dangerous Role Playing Game
-- Elite Dangerous RPG
+  - Elite Dangerous Role Playing Game
+  - Elite Dangerous RPG
 
 starcraftrpg:
-- Starcraft RPG
-- Starcraft RPG
+  - Starcraft RPG
+  - Starcraft RPG
 
 barebonesfantasy:
-- Barebones Fantasy RPG (00lite)
-- Barebones Fantasy RPG
+  - Barebones Fantasy RPG (00lite)
+  - Barebones Fantasy RPG
 
 sentinalcomics:
-- Sentinel Comics RPG
-- Sentinel Comics RPG
+  - Sentinel Comics RPG
+  - Sentinel Comics RPG
 
 innomine:
-- In-Nomine-Char-Sheet
-- In Nomine
+  - In-Nomine-Char-Sheet
+  - In Nomine
 
 sagaborn:
-- SagaBorn
-- SagaBorn
+  - SagaBorn
+  - SagaBorn
 
 beyondthewall:
-- Beyond the Wall and Other Adventures
-- Beyond the Wall and Other Adventures
+  - Beyond the Wall and Other Adventures
+  - Beyond the Wall and Other Adventures
 
 flagsrpg:
-- FLAGS_Custom
-- FLAGS
+  - FLAGS_Custom
+  - FLAGS
 
 demongate:
-- Demon Gate
-- Demon Gate
+  - Demon Gate
+  - Demon Gate
 
 spire:
-- Spire
-- Spire
+  - Spire
+  - Spire
 
 lasersandfeelings:
-- Lasers and Feelings
-- Lasers and Feelings
+  - Lasers and Feelings
+  - Lasers and Feelings
 
 thisisnotatest:
-- This_Is_Not_A_Test
-- This Is Not A Test
+  - This_Is_Not_A_Test
+  - This Is Not A Test
 
 michtimfluffy:
-- Michtim Fluffy Adventures
-- Michtim Fluffy Adventures
+  - Michtim Fluffy Adventures
+  - Michtim Fluffy Adventures
 
 battlecenturyg:
-- Battle Century G
-- Battle Century G
+  - Battle Century G
+  - Battle Century G
 
 dreamchaser:
-- Dreamchaser
-- Dreamchaser
+  - Dreamchaser
+  - Dreamchaser
 
 dragonlance:
-- Dragonlance 5th Age
-- "Dragonlance: Fifth Age"
-- "SAGA"
+  - Dragonlance 5th Age
+  - "Dragonlance: Fifth Age"
+  - "SAGA"
 
 chaos6010:
-- Chaos 6010
-- Chaos 6010
+  - Chaos 6010
+  - Chaos 6010
 
 theindiehack:
-- TIH
-- The Indie Hack
+  - TIH
+  - The Indie Hack
 
 trollbabe:
-- Trollbabe
-- Trollbabe
+  - Trollbabe
+  - Trollbabe
 
 pavillonnoir:
-- Pavillon Noir 2
-- Pavillon Noir 2e
+  - Pavillon Noir 2
+  - Pavillon Noir 2e
 
 ghostops:
-- Ghost-Ops-RPG
-- Ghost Ops
+  - Ghost-Ops-RPG
+  - Ghost Ops
 
 manteldacier:
-- Mantel dAcier
-- Mantel d'Acier
+  - Mantel dAcier
+  - Mantel d'Acier
 
 metallicguardian:
-- "Metallic Guardian"
-- "Metallic Guardian RPG"
+  - "Metallic Guardian"
+  - "Metallic Guardian RPG"
 
 pokemonadventuresunmoon:
-- "PokemonTabletopAdventures - Sun & Moon"
-- "Pokemon Tabletop Adventures - Sun & Moon"
-- "Pokemon"
+  - "PokemonTabletopAdventures - Sun & Moon"
+  - "Pokemon Tabletop Adventures - Sun & Moon"
+  - "Pokemon"
 
 lesroyaumesdemidgard:
-- "Les Royaumes de Midgard"
-- "Les Royaumes de Midgard"
+  - "Les Royaumes de Midgard"
+  - "Les Royaumes de Midgard"
 
 tiny:
-- "Tiny"
-- "Tiny"
+  - "Tiny"
+  - "Tiny"
 
 ohet:
-- "OHET"
-- "Outstanding Heroes and Extraordinary Threats"
+  - "OHET"
+  - "Outstanding Heroes and Extraordinary Threats"
 
 sengokufuzion:
-- "Sengoku"
-- "Sengoku Fuzion"
-- "Fuzion"
+  - "Sengoku"
+  - "Sengoku Fuzion"
+  - "Fuzion"
 
 viejaescuela:
-- "Vieja-escuela"
-- "Vieja Escuela"
+  - "Vieja-escuela"
+  - "Vieja Escuela"
 
 tesoroygloria:
-- "Tesoro y Gloria"
-- "Tesoro y Gloria"
+  - "Tesoro y Gloria"
+  - "Tesoro y Gloria"
 
 solarechoes:
-- "Solar Echoes"
-- "Solar Echoes"
+  - "Solar Echoes"
+  - "Solar Echoes"
 
 ponytalescommunity:
-- "PonytalesSheet"
-- "Pony Tales: Aspirations of Harmony"
+  - "PonytalesSheet"
+  - "Pony Tales: Aspirations of Harmony"
 
 terre2:
-- "Terre 2"
-- "Terre 2"
+  - "Terre 2"
+  - "Terre 2"
 
 bandofblades:
-- "Band of Blades"
-- "Band of Blades"
-- "Blades in the Dark"
+  - "Band of Blades"
+  - "Band of Blades"
+  - "Blades in the Dark"
 
 leschantsdeloss:
-- "Les Chants de Loss"
-- "Les Chants de Loss"
+  - "Les Chants de Loss"
+  - "Les Chants de Loss"
 
 bakerstreetrpg:
-- "BakerStreet"
-- "Baker Street RPG"
+  - "BakerStreet"
+  - "Baker Street RPG"
 
 freespacer:
-- "Free Spacer"
-- "Free Spacer"
+  - "Free Spacer"
+  - "Free Spacer"
 
 shinobigami:
-- "Shinobi_Gami_Chinese_Traditional"
-- "Shinobi Gami"
+  - "Shinobi_Gami_Chinese_Traditional"
+  - "Shinobi Gami"
 
 ashenstars:
-- "Ashen_Stars"
-- "Ashen Stars"
+  - "Ashen_Stars"
+  - "Ashen Stars"
 
 insane:
-- "inSANe auto cal"
-- "inSANe"
+  - "inSANe auto cal"
+  - "inSANe"
 
 ironsworn:
-- "Ironsworn"
-- "Ironsworn"
+  - "Ironsworn"
+  - "Ironsworn"
 
 nechronica:
-- "nechronica"
-- "Nechronica -The Long Long Sequel-"
+  - "nechronica"
+  - "Nechronica -The Long Long Sequel-"
 
 herosystem6e:
-- "HeroSystem6e"
-- "Hero System 6e"
+  - "HeroSystem6e"
+  - "Hero System 6e"
 
 songofswords:
-- "Song_of_Swords"
-- "Song of Swords"
+  - "Song_of_Swords"
+  - "Song of Swords"
 
 neuroshima:
-- "Neuroshima"
-- "Neuroshima"
+  - "Neuroshima"
+  - "Neuroshima"
 
 iwwlab:
-- "In Which We Live And Breathe"
-- "In Which We Live And Breathe"
+  - "In Which We Live And Breathe"
+  - "In Which We Live And Breathe"
 
 ellipses:
-- "Ellipses"
-- "Ellipses"
+  - "Ellipses"
+  - "Ellipses"
 
 karyudensetsu:
-- "Karyu Densetsu"
-- "Karyu Densetsu"
+  - "Karyu Densetsu"
+  - "Karyu Densetsu"
 
 undying:
-- "Undying"
-- "Undying"
+  - "Undying"
+  - "Undying"
 
 engineheart:
-- "EngineHeart"
-- "Engine Heart"
+  - "EngineHeart"
+  - "Engine Heart"
 
 vtm5e:
-- "vampire-v5"
-- "Vampire: The Masquerade 5th Edition"
+  - "vampire-v5"
+  - "Vampire: The Masquerade 5th Edition"
 
 terrorinfinity:
-- "Terror Infinity"
-- "Terror Infinity"
+  - "Terror Infinity"
+  - "Terror Infinity"
 
 advancedpandemonium:
-- "The ADVANCED Pandemonium"
-- "The ADVANCED: Pandemonium"
+  - "The ADVANCED Pandemonium"
+  - "The ADVANCED: Pandemonium"
 
 mortallybankrupt:
-- "Mortally Bankrupt"
-- "Mortally Bankrupt"
+  - "Mortally Bankrupt"
+  - "Mortally Bankrupt"
 
 aquelarre:
-- "Aquelarre"
-- "Aquelarre"
+  - "Aquelarre"
+  - "Aquelarre"
 
 starwars5e:
-- "StarWars5E"
-- "Star Wars 5e"
-- "Star Wars"
+  - "StarWars5E"
+  - "Star Wars 5e"
+  - "Star Wars"
 
 thewitcher:
-- "The Witcher"
-- "The Witcher"
-- "hidden"
+  - "The Witcher"
+  - "The Witcher"
+  - "hidden"
 
 witcher:
-- "TheWitcher"
-- "The Witcher"
+  - "TheWitcher"
+  - "The Witcher"
 
 mothership:
   - "Mothership"
@@ -2865,8 +2788,8 @@ mothership:
   - "Mothership"
 
 strain:
-- "Strain"
-- "Strain"
+  - "Strain"
+  - "Strain"
 
 stargatesg1:
   - "StargateSG-1"
@@ -3037,7 +2960,6 @@ songoficeandfire:
   - "A Song of Ice and Fire"
   - "Song of Ice and Fire Roleplaying"
 
-
 throughthebreach:
   - "Through The Breach"
   - "Through The Breach"
@@ -3046,4 +2968,10 @@ storiesuntold:
   - "Stories Untold"
   - "Stories Untold"
 
+bluebeardbride:
+  - "Bluebeard's Bride"
+  - "Bluebeard's Bride"
 
+##magicalogica:
+##  - "Magica_Logia"
+##  - "Magica Logia"
