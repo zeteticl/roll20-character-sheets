@@ -14,7 +14,7 @@
 	background: black;
 	width: 840px;
 	border-radius: 15px;
-	box-shadow: inset 0px 0px 10px white, inset 0px 0px 8px white, inset 0px 0px 4px white;
+	box-shadow: inset 0px 0px 10px #26a69a;
 	padding: 2px;
 	margin-right: auto;
 	margin-left: auto;
@@ -70,18 +70,14 @@ h4 {
 }
 
 input[type="text"] {
-	border: none;
-	border-bottom: 1px solid white;
-	border-right: 1px solid white;
+	border: 1px solid #26a69a;
 	background: transparent;
 	color: white;
 	font-family: "Contrail One", sans-serif;
 }
 
 input[type="number"] {
-	border: none;
-	border-bottom: 1px solid white;
-	border-right: 1px solid white;
+	border: 1px solid #26a69a;
 	background: transparent;
 	color: white;
 	font-family: "Contrail One", sans-serif;
@@ -89,14 +85,14 @@ input[type="number"] {
 
 input:focus {
 	background-color: #add8e6;
-	border: 1px solid blue;
+	border: 1px solid #26a69a;
 	box-shadow: blue;
 	color: black;
 }
 
 input[type="number"].sheet-stat {
 	background: transparent;
-	border: none;
+	border: 1px solid #26a69a;
 	box-shadow: none;
 	text-shadow: 0px 0px 5px white, 0px 0px 4px blue, 0px 0px 3px black, 0px 0px 3px black, 0px 0px 3px black;
 	color: white;
@@ -129,7 +125,7 @@ select {
 	display: inline-block;
 	background: transparent;
 	color: white;
-	border: 1px solid white;
+	border: 1px solid #26a69a;
 	border-radius: 5px;
 }
 
@@ -146,9 +142,7 @@ textarea {
 	resize: vertical;
 	height: 100px;
 	width: 375px;
-	border: none;
-	border-bottom: 1px solid white;
-	border-right: 1px solid white;
+	border: 1px solid #26a69a;
 	background: transparent;
 	color: white;
 	font-family: "Contrail One", sans-serif;
@@ -156,7 +150,7 @@ textarea {
 
 textarea:focus {
 	background-color: #add8e6;
-	border: 1px solid blue;
+	border: 1px solid #26a69a;
 	color: black;
 }
 
@@ -173,34 +167,33 @@ textarea:focus {
 .sheet-damagetable tr,
 .sheet-damagetable td,
 .sheet-damagetable th {
-	border: 2px solid black;
+	border: 1px solid #26a69a;
 	width: 9%;
 	text-align: center;
 	margin: 0;
 }
 
 .sheet-skilltable {
-	border: 2px solid black;
+	border: 1px solid #26a69a;
 	width: 390px;
 	text-align: center;
 }
 
 .sheet-skilltable-otherskill {
-	border: 2px solid black;
+	border: 1px solid #26a69a;
 	border-bottom: none;
 	width: 390px;
 }
 
 .sheet-skilltable-otherskill-openup {
-	border: 2px solid black;
-	border-top: none;
+	border: 1px solid #26a69a;
 	width: 390px;
 	text-align: center;
 }
 
 .sheet-skilltable_wide,
 table.sheet-skilltable_wide {
-	border: 2px solid black;
+	border: 1px solid #26a69a;
 	text-align: center;
 	margin: 1px;
 	margin-left: auto;
@@ -210,7 +203,7 @@ table.sheet-skilltable_wide {
 .sheet-skilltable_wide tr,
 .sheet-skilltable_wide td,
 .sheet-skilltable_wide th {
-	border: 2px solid black;
+	border: 1px solid #26a69a;
 	text-align: center;
 	margin: 0;
 }
@@ -228,10 +221,7 @@ table.sheet-skilltable_wide {
 }
 
 .sheet-language {
-	border-top: none;
-	border-left: none;
-	border-right: none;
-	border-bottom: 2px dotted white;
+	border: 1px solid #26a69a;
 	background-color: transparent;
 	color: white;
 	font-style: italic;
@@ -275,12 +265,12 @@ input.sheet-tab+span::before {
 	text-shadow: 0px 0px 0.5em black;
 	text-align: center;
 	display: inline-block;
-	background: #fff;
-	background: -moz-linear-gradient(to top, #fff, #000, #fff);
-	background: -webkit-linear-gradient(to top, #fff, #000, #fff);
-	background: -ms-linear-gradient(to top, #fff, #000, #fff);
-	background: -o-linear-gradient(to top, #fff, #000, #fff);
-	background: linear-gradient(to top, #fff, #000, #fff);
+	background: #1d7278;
+	background: -moz-linear-gradient(to top, #1d7278, #000000, #1d7278);
+	background: -webkit-linear-gradient(to top, #1d7278, #000000, #1d7278);
+	background: -ms-linear-gradient(to top, #1d7278, #000000, #1d7278);
+	background: -o-linear-gradient(to top, #1d7278, #000000, #1d7278);
+	background: linear-gradient(to top, #1d7278, #000000, #1d7278);
 	width: 20px;
 	height: 20px;
 	font-size: 16px;
@@ -290,12 +280,12 @@ input.sheet-tab+span::before {
 }
 
 input.sheet-tab:checked+span::before {
-	background: #dcdcdc;
-	background: -moz-linear-gradient(to top, #0000ff, #dcdcdc, #0000ff);
-	background: -webkit-linear-gradient(to top, #0000ff, #dcdcdc, #0000ff);
-	background: -ms-linear-gradient(to top, #0000ff, #dcdcdc, #0000ff);
-	background: -o-linear-gradient(to top, #0000ff, #dcdcdc, #0000ff);
-	background: linear-gradient(to top, #0000ff, #dcdcdc, #0000ff);
+	background: #fff;
+	background: -moz-linear-gradient(to top, #26a69a, #26a69a, #000000);
+	background: -webkit-linear-gradient(to top, #26a69a, #26a69a, #000000);
+	background: -ms-linear-gradient(to top, #26a69a, #26a69a, #000000);
+	background: -o-linear-gradient(to top, #26a69a, #26a69a, #000000);
+	background: linear-gradient(to top, #26a69a, #26a69a, #000000);
 	/* border-bottom-color: #fff; */
 }
 
@@ -333,7 +323,7 @@ input.sheet-checkbox[type="checkbox"] {
 
 input.sheet-checkbox[type="checkbox"]+span::before {
 	margin-bottom: 2px;
-	border: solid 1px #a8a8a8;
+	border: 1px solid #26a69a;
 	line-height: 14px;
 	text-align: center;
 	display: inline-block;
@@ -389,7 +379,7 @@ input.sheet-chipped[type="checkbox"]+span::before {
 	left: -34px;
 	margin-bottom: 2px;
 	margin-left: 0px;
-	border: solid 1px #a8a8a8;
+	border: 1px solid #26a69a;
 	line-height: 14px;
 	text-align: center;
 	display: inline-block;
@@ -438,7 +428,7 @@ button[type="roll"].sheet-skillroll,
 	cursor: pointer;
 	background-image: none;
 	background-color: transparent;
-	border: outset 4px solid gray;
+	border: 1px solid #26a69a;
 	/* 1px solid black */
 	padding: 2px;
 	padding-bottom: 4px;
@@ -879,11 +869,11 @@ input[type="radio"].sheet-damage:checked~input[type="radio"].sheet-damage+span::
 	-webkit-box-shadow: none;
 	box-shadow: none;
 	background: #f6f6f6;
-	background: -moz-radial-gradient(#00008b, #add8e6);
-	background: -webkit-radial-gradient(#00008b, #add8e6);
-	background: -ms-radial-gradient(#00008b, #add8e6);
-	background: -o-radial-gradient(#00008b, #add8e6);
-	background: radial-gradient(#00008b, #add8e6);
+	background: -moz-radial-gradient(#00000, #26a69a);
+	background: -webkit-radial-gradient(#00000, #26a69a);
+	background: -ms-radial-gradient(#00000, #26a69a);
+	background: -o-radial-gradient(#00000, #26a69a);
+	background: radial-gradient(#00000, #26a69a);
 }
 
 .sheet-hidden {
