@@ -264,7 +264,7 @@
         <td>3</td>
         <td>Brazo Izq.(1/2)</td>
         <td><input style="width: 180px;"name="attr_arm_Brazoi" type="text" /></td>
-        <td><input style="width: 40px;" name="attr_rr_Brazoi" type="number" /></td>
+       	<td><input style="width: 40px;" name="attr_pg_Brazoi" type="number" /></td>
         <td><input style="width: 50px;" name="attr_rr_Brazoi" type="number"  /></td>
         <td><input style="width: 50px;" name="attr_rra_Brazoi" type="number"  /></td>
         </tr>
@@ -299,6 +299,13 @@
         <td><input style="width: 40px;" name="attr_pg_Piernai" type="number" /></td>
         <td><input style="width: 50px;" name="attr_rr_Piernai" type="number" /></td>
         <td><input style="width: 50px;" name="attr_rra_Piernai" type="number" /></td>
+        </tr>
+	<tr>
+        <td></td>
+        <td>Escudo</td>
+        <td><input style="width: 180px;" name="attr_Escudo" type="text" /></td>
+        <td><input style="width: 50px;" name="attr_rr_Escudo" type="number" /></td>
+        <td><input style="width: 50px;" name="attr_rra_Escudo" type="number" /></td>
         </tr>
         </tbody>
         </table>
@@ -362,7 +369,7 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td style="height: 25px"  >Conocimiento d Área (CUL):</td>
+                    <td style="height: 25px"  >Conocimiento de Área (CUL):</td>
                     <td></td>
                     <td></td>
                 </tr>
@@ -482,19 +489,19 @@
                     <td><input type="checkbox" /></td>
                     <td><input type="text" name="attr_habilidad11" style="width: 160px" /></td>
                     <td><input type="number" name="attr_habilidad11-valor"  /></td>
-                    <td><button type="roll" name="roll_habilidad11" value="&{template:default} {{name=@{habilidad11}}} {{Valor=@{habilidad11-valor}}} {{Resultado=[[1d100cs<[[round(@{habilidad11}*0.05)]]cf>96]]}}" /></td>
+                    <td><button type="roll" name="roll_habilidad11" value="&{template:default} {{name=@{habilidad11}}} {{Valor=@{habilidad11-valor}}} {{Resultado=[[1d100cs<[[round(@{habilidad11-valor}*0.05)]]cf>96]]}}" /></td>
                 </tr>
                 <tr>
                     <td><input type="checkbox" /></td>
                     <td><input type="text" name="attr_habilidad12" style="width: 160px" /></td>
                     <td><input type="number" name="attr_habilidad12-valor"  /></td>
-                    <td><button type="roll" name="roll_habilidad12" value="&{template:default} {{name=@{habilidad12}}} {{Valor=@{habilidad12-valor}}} {{Resultado=[[1d100cs<[[round(@{habilidad12}*0.05)]]cf>96]]}}" /></td>
+                    <td><button type="roll" name="roll_habilidad12" value="&{template:default} {{name=@{habilidad12}}} {{Valor=@{habilidad12-valor}}} {{Resultado=[[1d100cs<[[round(@{habilidad12-valor}*0.05)]]cf>96]]}}" /></td>
                 </tr>
                 <tr>
                     <td><input type="checkbox" /></td>
                     <td><input type="text" name="attr_habilidad13" style="width: 160px" /></td>
                     <td><input type="number" name="attr_habilidad13-valor"  /></td>
-                    <td><button type="roll" name="roll_habilidad13" value="&{template:default} {{name=@{habilidad13}}} {{Valor=@{habilidad13-valor}}} {{Resultado=[[1d100cs<[[round(@{habilidad13}*0.05)]]cf>96]]}}" /></td>
+                    <td><button type="roll" name="roll_habilidad13" value="&{template:default} {{name=@{habilidad13}}} {{Valor=@{habilidad13-valor}}} {{Resultado=[[1d100cs<[[round(@{habilidad13-valor}*0.05)]]cf>96]]}}" /></td>
                 </tr>
 				<tr>
                     <td><input type="checkbox" name="attr_Success-Juego"  /></td>
@@ -863,7 +870,7 @@
         		<tr>
         		<td>Ingresos Mensuales</td>
                 <td><input type="text" name="attr_mensuales" style="width:70px"/></td>
-                <td >Ingresos Semanales</td>
+                <td >Gastos Semanales</td>
                 <td><input type="text" name="attr_semanales" style="width:70px"/></td>
 				</tr></p> 
 			<p>
